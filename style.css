@@ -17,7 +17,7 @@ a{
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.ambition{
+.aim{
     color: royalblue;
 }
 .top-header{
@@ -74,8 +74,7 @@ a{
 }
 .footer{
     background-color: black;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 50px;
 }
 .footer h2{
     color: white;
